@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+  <sys_complex_object action="INSERT_OR_UPDATE">
+    <label/>
+    <name>FD1d08c29ca672a110862ac52cd8921cdf</name>
+    <namespace>FlowDesigner</namespace>
+    <scope_name>05b59658b7332300ce53d818ee11a9eb</scope_name>
+    <serialized_content>{"FlowDesigner:FD1d08c29ca672a110862ac52cd8921cdf":{"$COCollectionField":["String"],"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FD1d08c29ca672a110862ac52cd8921cdf.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"Override Default Fields\",\"mandatory\":\"false\",\"child_name\":\"field\",\"uiUniqueId\":\"9f788df0-de2a-4955-9877-f8a3439ebd1a\",\"uiTypeLabel\":\"Array.String\",\"co_type_name\":\"FD1d08c29ca672a110862ac52cd8921cdf\",\"child_label\":\"Field\",\"child_type_label\":\"String\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"array.string\",\"child_defaultValue\":\"\",\"child_type\":\"string\",\"order\":\"6\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"b4a4b68d-4319-4b36-af1c-c2ce10b0c102\"}"}}</serialized_content>
+    <sys_class_name>sys_complex_object</sys_class_name>
+    <sys_created_by>admin</sys_created_by>
+    <sys_created_on>2023-05-10 09:30:48</sys_created_on>
+    <sys_domain>global</sys_domain>
+    <sys_domain_path>/</sys_domain_path>
+    <sys_id>dd08c29c7772a1107cac5228c81061df</sys_id>
+    <sys_mod_count>0</sys_mod_count>
+    <sys_name>FD1d08c29ca672a110862ac52cd8921cdf</sys_name>
+    <sys_overrides/>
+    <sys_package display_value="Microsoft Teams Graph Spoke" source="sn_msteams_ahv2">05b59658b7332300ce53d818ee11a9eb</sys_package>
+    <sys_policy/>
+    <sys_scope display_value="Microsoft Teams Graph Spoke">05b59658b7332300ce53d818ee11a9eb</sys_scope>
+    <sys_update_name>sys_complex_object_dd08c29c7772a1107cac5228c81061df</sys_update_name>
+    <sys_updated_by>admin</sys_updated_by>
+    <sys_updated_on>2023-05-10 09:30:48</sys_updated_on>
+    <type>complex_object_collection</type>
+  </sys_complex_object>
+</record_update>

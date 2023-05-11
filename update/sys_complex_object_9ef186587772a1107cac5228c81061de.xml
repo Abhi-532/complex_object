@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+  <sys_complex_object action="INSERT_OR_UPDATE">
+    <label/>
+    <name>FDdaf186585372a110bd88cc9b517819de</name>
+    <namespace>FlowDesigner</namespace>
+    <scope_name>05b59658b7332300ce53d818ee11a9eb</scope_name>
+    <serialized_content>{"FlowDesigner:FDdaf186585372a110bd88cc9b517819de":{"$COCollectionField":["String"],"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FDdaf186585372a110bd88cc9b517819de.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"Override Default Fields\",\"mandatory\":\"false\",\"child_name\":\"field\",\"uiUniqueId\":\"6f0d0d3c-51fe-4263-8d5c-459305e7bc66\",\"uiTypeLabel\":\"Array.String\",\"co_type_name\":\"FDdaf186585372a110bd88cc9b517819de\",\"child_label\":\"Field\",\"child_type_label\":\"String\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"array.string\",\"child_type\":\"string\",\"order\":\"6\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"699ba385-615e-44aa-a524-32c119f16da6\"}"}}</serialized_content>
+    <sys_class_name>sys_complex_object</sys_class_name>
+    <sys_created_by>admin</sys_created_by>
+    <sys_created_on>2023-05-10 09:04:23</sys_created_on>
+    <sys_domain>global</sys_domain>
+    <sys_domain_path>/</sys_domain_path>
+    <sys_id>9ef186587772a1107cac5228c81061de</sys_id>
+    <sys_mod_count>1</sys_mod_count>
+    <sys_name>FDdaf186585372a110bd88cc9b517819de</sys_name>
+    <sys_overrides/>
+    <sys_package display_value="Microsoft Teams Graph Spoke" source="sn_msteams_ahv2">05b59658b7332300ce53d818ee11a9eb</sys_package>
+    <sys_policy/>
+    <sys_scope display_value="Microsoft Teams Graph Spoke">05b59658b7332300ce53d818ee11a9eb</sys_scope>
+    <sys_update_name>sys_complex_object_9ef186587772a1107cac5228c81061de</sys_update_name>
+    <sys_updated_by>admin</sys_updated_by>
+    <sys_updated_on>2023-05-10 09:04:27</sys_updated_on>
+    <type>complex_object_collection</type>
+  </sys_complex_object>
+</record_update>

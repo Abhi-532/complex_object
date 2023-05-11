@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+  <sys_complex_object action="INSERT_OR_UPDATE">
+    <label/>
+    <name>FDe70d3154a972a11040c5d296d206af26</name>
+    <namespace>FlowDesigner</namespace>
+    <scope_name>05b59658b7332300ce53d818ee11a9eb</scope_name>
+    <serialized_content>{"FlowDesigner:FDe70d3154a972a11040c5d296d206af26":{"Attachment_Name":"String","Attachment_Name.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Attachment Name\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"0\"}"},"Content_URL":"String","Content_URL.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Content URL\",\"mandatory\":\"false\",\"order\":\"3\",\"max_length\":\"0\"}"},"Attachment_ID":"String","Attachment_ID.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Attachment ID\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\"}"}},"FlowDesigner:FDe70d3154a972a11040c5d296d206af26.$type_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FDe70d3154a972a11040c5d296d206af26\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"default_value\":\"\",\"label\":\"SharePoint Attachment\",\"mandatory\":\"false\",\"order\":\"9\",\"max_length\":\"65000\",\"uiUniqueId\":\"25e1f86a-3fbd-4c5a-ac4c-92f65807096d\"}"}}</serialized_content>
+    <sys_class_name>sys_complex_object</sys_class_name>
+    <sys_created_by>admin</sys_created_by>
+    <sys_created_on>2023-05-10 08:42:53</sys_created_on>
+    <sys_domain>global</sys_domain>
+    <sys_domain_path>/</sys_domain_path>
+    <sys_id>ab0d31547772a1107cac5228c8106126</sys_id>
+    <sys_mod_count>0</sys_mod_count>
+    <sys_name>FDe70d3154a972a11040c5d296d206af26</sys_name>
+    <sys_overrides/>
+    <sys_package display_value="Microsoft Teams Graph Spoke" source="sn_msteams_ahv2">05b59658b7332300ce53d818ee11a9eb</sys_package>
+    <sys_policy/>
+    <sys_scope display_value="Microsoft Teams Graph Spoke">05b59658b7332300ce53d818ee11a9eb</sys_scope>
+    <sys_update_name>sys_complex_object_ab0d31547772a1107cac5228c8106126</sys_update_name>
+    <sys_updated_by>admin</sys_updated_by>
+    <sys_updated_on>2023-05-10 08:42:53</sys_updated_on>
+    <type>complex_object_schema</type>
+  </sys_complex_object>
+</record_update>
